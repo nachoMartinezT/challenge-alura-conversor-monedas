@@ -1,0 +1,29 @@
+[
+  {
+    "ConsultaDate": "Sat Apr 27 14:29:51 ART 2024",
+    "Valor": 50.0,
+    "Moneda_base": "USD",
+    "Moneda_objetivo": "COP",
+    "Ratio": 3932.3173,
+    "ValorConvertido": 196615.87,
+    "LastUpdate": "Sat, 27 Apr 2024 00:00:01 +0000"
+  },
+  {
+    "ConsultaDate": "Sat Apr 27 14:31:12 ART 2024",
+    "Valor": 150.0,
+    "Moneda_base": "USD",
+    "Moneda_objetivo": "AFN",
+    "Ratio": 72.2119,
+    "ValorConvertido": 10831.79,
+    "LastUpdate": "Sat, 27 Apr 2024 00:00:01 +0000"
+  },
+  {
+    "ConsultaDate": "Sat Apr 27 14:31:59 ART 2024",
+    "Valor": 350.0,
+    "Moneda_base": "USD",
+    "Moneda_objetivo": "CNY",
+    "Ratio": 7.2588,
+    "ValorConvertido": 2540.58,
+    "LastUpdate": "Sat, 27 Apr 2024 00:00:01 +0000"
+  }
+]
